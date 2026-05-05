@@ -1,5 +1,5 @@
 ## Hi there, I'm Erkan GÜNEY 👋
-![](https://komarev.com/ghpvc/?kullanıcı adı=kullanıcı adınız&color=give_your_color)
+
 
 <!--
 **erkangueney/erkangueney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
