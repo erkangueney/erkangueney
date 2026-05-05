@@ -36,11 +36,11 @@
 
 <!-- 5. Destek Butonu (Buy Me a Coffee) -->
 <p>Eğer yaptığım çalışmaları desteklemek veya bana bir kahve ısmarlamak istersen 🥺</p>
-<a href="https://www.buymeacoffee.com/SENIN_KULLANICI_ADIN" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/erkangueney" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <!-- 6. GitHub İstatistikleri (Readme Stats & Streak) -->
 <h3>GitHub Katkı Özetim</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SENIN_KULLANICI_ADIN&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=erkangueney&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SENIN_KULLANICI_ADIN&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erkangueney&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
