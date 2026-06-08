@@ -16,11 +16,11 @@
   <img alt="Backend API" src="https://img.shields.io/badge/-Backend_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
 </p>
 
-<!-- 3. Geliştirici Özeti & Python Kod Bloğu (Görsel Dashboard Hissi) -->
+<!-- Geliştirici Özeti & Python Kod Bloğu (Görsel Dashboard Hissi) -->
 <h3>Hakkımda Hızlı Bir Özet</h3>
 <pre><code>class Developer:
     def __init__(self):
-        self.focus = ["Data Science", "Generative AI", "UI/UX", "Backend Architecture"]
+        self.focus = ["Data Analist", "Generative AI", ]
         self.tools = ["Google Gemini", "google-genai", "Python", "SQL"]
         self.passions = ["Otonom AI Ajanları", "Spor Veri Analitiği"]
 </code></pre>
@@ -34,11 +34,8 @@
   <li><i>🌐 Etkinlik: Kariyer ağımı genişletmek için UGİK'26 ve Future Days'26 etkinliklerine katıldım.</i></li>
 </ul>
 
-<!-- 5. Destek Butonu (Buy Me a Coffee) -->
-<p>Eğer yaptığım çalışmaları desteklemek veya bana bir kahve ısmarlamak istersen 🥺</p>
-<a href="https://www.buymeacoffee.com/erkangueney" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<!-- 6. GitHub İstatistikleri (Readme Stats & Streak) -->
+<!--  GitHub İstatistikleri (Readme Stats & Streak) -->
 <h3>GitHub Katkı Özetim</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=erkangueney&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
