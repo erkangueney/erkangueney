@@ -10,27 +10,17 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Google Gemini" src="https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" />
   <img alt="Data Analytics" src="https://img.shields.io/badge/-Data_Analytics-FF6F00?style=flat-square&logo=google-analytics&logoColor=white" />
-  <img alt="UI Design" src="https://img.shields.io/badge/-UI_Design-FF4B4B?style=flat-square&logo=figma&logoColor=white" />
-  <img alt="Backend API" src="https://img.shields.io/badge/-Backend_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
+ 
 </p>
 
-<!-- Geliştirici Özeti & Python Kod Bloğu (Görsel Dashboard Hissi) -->
-<h3>Hakkımda Hızlı Bir Özet</h3>
-<pre><code>class Developer:
-    def __init__(self):
-        self.focus = ["Data Analist", "Generative AI", ]
-        self.tools = ["Google Gemini", "google-genai", "Python", "SQL"]
-        self.passions = ["Otonom AI Ajanları", "Spor Veri Analitiği"]
-</code></pre>
+
 
 <!-- 4. Son Güncellemeler ve Aktiviteler (Makaledeki 'Most recent articles' bölümü uyarlaması) -->
 <h3>En son çalışmalarım ve güncellemelerim</h3>
 <ul>
   <li><i>🚀 Proje: Dosya ve komut işlemleri için otonom AI sistem araçları ve arayüz entegrasyonları geliştiriyorum.</i></li>
   <li><i>🎓 Gelişim: Python & Data Science Bootcamp sürecindeyim ve spor veri analitiği üzerine çalışıyorum.</i></li>
-  <li><i>🤝 Topluluk: TOÇEV ile özel ders gönüllülük projesinde aktif rol alıyorum.</i></li>
   <li><i>🌐 Etkinlik: Kariyer ağımı genişletmek için UGİK'26 ve Future Days'26 etkinliklerine katıldım.</i></li>
 </ul>
 
