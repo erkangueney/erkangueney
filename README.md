@@ -1,32 +1,33 @@
-### 👋 Merhaba, Ben Erkan GÜNEY! 
+# Erkan GÜNEY
 
----
+Data Analyst | SQL · Power BI · Python
 
-<!-- 1. Profil Görüntülenme Sayacı (Komarev) -->
-![](https://komarev.com/ghpvc/?username=erkangueney&color=fb4362)
+TR: Veri analizi, veri mühendisliği ve yapay zekâ üzerine çalışıyorum. Burada uçtan uca analiz projelerimi, eğitim platformumu ve otomasyon araçlarımı bulabilirsin.
 
-<!-- 2. Teknoloji Yığını (Shields.io Rozetleri) -->
-<h3>Kod yazarken ve veri analizi yaparken güvendiğim teknolojiler:</h3>
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Power BI" src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img alt="Data Analytics" src="https://img.shields.io/badge/-Data_Analytics-FF6F00?style=flat-square&logo=google-analytics&logoColor=white" />
-</p>
+EN: I work on data analytics, data engineering and AI. This is where my end-to-end analysis projects, learning platform and automation tools live.
 
-<!-- 4. Son Güncellemeler ve Aktiviteler -->
-<h3>En son çalışmalarım ve güncellemelerim</h3>
-<ul>
-  <li><i>📊 <b>Veri Görselleştirme:</b> Microsoft Power BI ile interaktif dashboardlar ve uçtan uca veri analizi projeleri geliştiriyorum.</i></li>
-  <li><i>🤖 <b>Yapay Zeka:</b> AI tabanlı otomasyon sistemleri, LLM entegrasyonları ve veri odaklı yapay zeka çözümleri üzerine uzmanlaşıyorum.</i></li>
-  <li><i>🚀 <b>Proje:</b> Dosya ve komut işlemleri için otonom AI sistem araçları ve arayüz entegrasyonları geliştiriyorum.</i></li>
-  <li><i>🎓 <b>Gelişim:</b> Python, Data Science ve AI odaklı yoğun bootcamp süreçlerini tamamladım; şu an spor veri analitiği üzerine derinleşiyorum.</i></li>
-  <li><i>🌐 <b>Etkinlik:</b> Kariyer ağımı genişletmek için UGİK'26 ve Future Days'26 etkinliklerine katıldım.</i></li>
-</ul>
+## Öne çıkan projeler / Featured projects
 
-<!-- GitHub İstatistikleri (Readme Stats & Streak) -->
-<h3>GitHub Katkı Özetim</h3>
+| Proje / Project | Açıklama / Description |
+| --- | --- |
+| [mihenk (Veri Akademi)](https://github.com/erkangueney/mihenk) | Oyunlaştırılmış, TR/EN veri analizi eğitim platformu: 12 öğrenme patikası, 24 uçtan uca proje, tarayıcıda çalışan Python ve SQL / Gamified TR/EN data learning platform with in-browser Python and SQL |
+| [Credit-Rating-Transition](https://github.com/erkangueney/Credit-Rating-Transition) | 2015–2024 kredi notu geçişleri ve temerrüt riski analizi / Credit rating transitions and default risk, 2015–2024 |
+| [akilli_cuzdan](https://github.com/erkangueney/akilli_cuzdan) | Streamlit ile bütçe takibi ve alarm sistemi / Budget tracking and alerts with Streamlit |
+| [mail-agents](https://github.com/erkangueney/mail-agents) | İnsan onaylı, LLM destekli başvuru e-postası otomasyonu / Human-approved, LLM-assisted application email automation |
+| [HR-Data-Analysis](https://github.com/erkangueney/HR-Data-Analysis) | SQL Server, Excel ve Power BI ile İK analizi / HR analytics with SQL Server, Excel and Power BI |
+| [Ecommerce-Sales-Performance-Analysis](https://github.com/erkangueney/Ecommerce-Sales-Performance-Analysis) | E-ticaret satış performans analizi / E-commerce sales performance analysis |
+| [starbucks_nutrition_fact](https://github.com/erkangueney/starbucks_nutrition_fact) | 77 ürünlük beslenme analizi / Nutritional analysis of 77 products |
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=erkangueney&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+## Araçlar / Tools
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erkangueney&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+Python, SQL, Power BI, DAX, Excel, Pandas, scikit-learn, Streamlit, Apache Airflow, BigQuery, Azure SQL
+
+## Yazılar / Writing
+
+TR: Veri süreçlerinin hata vermeden yanlış çalışması, ETL/ELT, SQL tuzakları ve Power BI üzerine LinkedIn'de yazıyorum.
+
+EN: I write on LinkedIn about data pipelines that fail silently, ETL/ELT, SQL pitfalls and Power BI.
+
+## İletişim / Contact
+
+[LinkedIn](https://www.linkedin.com/in/erkangueney)
